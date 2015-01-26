@@ -19,7 +19,7 @@ public class Welcome{
     System.out.println("<-T--B--E--2--1--8->");
     System.out.println(" \\ /\\ /\\ /\\ /\\ /\\ /");
     System.out.println("  v  v  v  v  v  v ");
-    System.out.println("This August my wife and I took an eleven-day, 675-mile bike tour on our tandem.  We circled Lake Ontario.");
+    System.out.println("This weekend I went to New York City and had sushi for the first time. I then saw my first show on Broadway. It was Aladdin.");
 
         }
     }
